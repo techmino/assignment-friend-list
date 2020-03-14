@@ -1,0 +1,13 @@
+.header img{
+    height: 100px;
+}
+.header{
+    text-align: center;
+}
+.heading{
+    background-color: gray;
+    color: white;
+    box-shadow: 5px 5px 5px black;
+    margin-top: -10px;
+
+}
